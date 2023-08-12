@@ -13,7 +13,7 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="contact-form">
+    <div className="contact-form mb-3">
       <div className="container">
         <div className="row">
           <div className="col-md-6">
